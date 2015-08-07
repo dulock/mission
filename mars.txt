@@ -1,3 +1,4 @@
 #first sample file for git exercise
 Cold and dry but everything is my favorite color
 Mars has two moons, Phobos and Deimos. Good, menacing Greek words.
+I sure will appreciate the lack of humidity. Dry home is a good home.
