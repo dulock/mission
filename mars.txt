@@ -1,3 +1,6 @@
 #first sample file for git exercise
 Cold and dry but everything is my favorite color
 Mars has two moons, Phobos and Deimos. Good, menacing Greek words.
+Once I reach Mars, I will totally look for Mark Watney.
+He must have some awesome stories to tell.
+Matt Damon had better do a good job in the movie.
